@@ -16,3 +16,16 @@ $fbPermissions = 'email';
 
 ============ May I Help You ===========
 If you have any query about this script, please feel free to contact us at contact@f5buddy.com We will reply your query soon.
+
+
+
+
+=================== Facebook apps creation:=====================
+
+Go to the https://developers.facebook.com/apps/ and login at your Facebook developer account.
+Create a new Facebook apps with your desired name like Web Login.
+If you want to test Facebook login at the localhost server, then your App Domains should be localhost. Also localhost domain will only work, once you add platform. For add a platform click on Settings link from the left menu section at the apps page => click on the Add Platform button => choose Website category => enter site URL (http://localhost/facebook_login_with_php/).
+Once you completed the above steps, your apps settings page would be displayed like the below screenshot.
+
+================== screenshot.jpg   in root directory=======================
+
